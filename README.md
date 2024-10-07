@@ -1,7 +1,7 @@
 ## CS50's Introduction to Artificial Intelligence with Python
 This repository contains all the projects for Harvard's [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/), from the CS50 series.     
 
-## Lecture 0 - [Search](/0.Search/)
+## Lecture 0 - [Search](/Search/)
 
 Search problems involve an agent that is given an initial state and a goal state, and it returns a solution of how to get from the former to the latter
 
