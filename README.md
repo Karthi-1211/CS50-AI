@@ -31,7 +31,7 @@ Humans reason based on existing knowledge and draw conclusions. The concept of r
 - [Knights](/Knowledge/knights/)
 - [Minesweeper](/Knowledge/minesweeper/)
 
-## Lecture 2 - [Uncertainty](/Uncertainty/)
+## Lecture 2 - [Uncertainty](/Uncertainity/)
 
 Last lecture shows how AI can represent knowledge and from that, derive new knowledge. But in reality, usually we don't have that much knowledge for certain. In fact, most of the times AI can only have partial knowledge and leaving some space for uncertainty. Still, we would want the AI to make the best possible decision during these situations
 
@@ -43,8 +43,8 @@ Last lecture shows how AI can represent knowledge and from that, derive new know
 
 ### Projects
 
-- [PageRank](/Uncertainty/pagerank/)
-- [Heredity](/Uncertainty/heredity/)
+- [PageRank](/Uncertainity/pagerank/)
+- [Heredity](/Uncertainity/heredity/)
 
 ## Lecture 3 - [Optimization](/Optimization/)
 
