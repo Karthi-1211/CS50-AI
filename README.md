@@ -87,7 +87,7 @@ AI neural networks are inspired by neuroscience. In the brain, neurons are cells
 
 ### Projects
 
-- [Traffic](/Neural_Networks/traffic/)
+- [Traffic](/NeuralNetworks/traffic/)
 
 ## Lecture 6 - [Language](/Language/)
 
