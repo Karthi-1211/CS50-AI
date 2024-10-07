@@ -17,7 +17,7 @@ Algorithms for optimization problems (local search, linear programming, and cons
 5. [**Learning**](Learning): 
 Machine learning algorithms for supervised, unsupervised, and reinforcement learning.
 
-6. [**Neural Networks**](NeuralNetworks): 
+6. [**Neural Networks**](Neural_Networks): 
 Shallow and deep learning with neural networks.
 
 7. [**Language**](Language):
