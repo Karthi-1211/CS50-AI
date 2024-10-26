@@ -104,4 +104,8 @@ Natural Language Processing spans all tasks where the AI gets human language as 
 - [Parser](/Language/parser/)
 - [Questions](/Language/questions/)
 
+## Certificate
+- [Download Certificate](https://github.com/Karthi-1211/CS50-AI/blob/main/HarvardX%20CS50AI%20Certificate%20_%20edX.pdf)
+
+  
 
